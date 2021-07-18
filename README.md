@@ -3,7 +3,7 @@
 - 🌱 I have experience in Java and C++, currently improving my Python skill.
 - 💞️ I will keep posting new projects that I participated.
 
-      I am always trying to grow and learn something new. Expect updates from my GitHub. /smile
+      I am always trying to grow and learn something new.
       
 - 📫 Please feel free to reach me thru my e-mail: jdai10@mail.ccsf.edu
 
