@@ -1,5 +1,5 @@
 - 👋 Hi, I’m JiaJun Dai!
-- 👀 I’m a graduated student looking for internship and more project participation.
+- 👀 I’m a graduated student at San Jose State University looking for internship and more project participation.
 - 🌱 I have experience in Java and C++, currently improving my Python skill.
 - 💞️ I will keep posting new projects that I participated.
 
