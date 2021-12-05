@@ -1,9 +1,9 @@
-- 👋 Hi, I’m JiaJun Dai!
-- 👀 I’m a graduated student at San Jose State University looking for internship and more project participation.
-- 🌱 I have experience in Java and C++, and Python, currently learning SQL and Swift.
+- 👋 Hi, This is JiaJun Dai's GitHub. I'm:
+- 👀 A graduated student at San Jose State University looking for internship and more project participation.
+- 🌱 Experienced in Java, C++, Python, and SQL, currently learning GO and Swift.
 - 💞️ I will keep posting new projects that I participated.
 
-      I am always trying to grow and learn something new.
+      You never need to be amazing to start, but you always need to start to be amazing.
       
 - 📫 Please feel free to reach me thru my e-mail: jdai10@mail.ccsf.edu
 
