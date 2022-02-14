@@ -5,7 +5,7 @@
 
       You don't need to be amazing to start, but you need to start become amazing.
       
-- 📫 Please feel free to reach me thru my e-mail: jdai10@mail.ccsf.edu
+- 📫 Please feel free to reach me thru my e-mail: jiajun.dai@sjsu.edu
 
 <!---
 DJJ547/DJJ547 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
