@@ -3,7 +3,7 @@
 - 🌱 Experienced in Java, C++, Python, and SQL, currently learning GO and Swift.
 - 💞️ I will keep posting new projects that I participated.
 
-      You never need to be amazing to start, but you always need to start to be amazing.
+      You don't need to be amazing to start, but you need to start become amazing.
       
 - 📫 Please feel free to reach me thru my e-mail: jdai10@mail.ccsf.edu
 
