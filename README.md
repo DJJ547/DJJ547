@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 💞️ I will keep posting new projects that I participated.
-
 - 📫 How to reach me **djj953@gmail.com**
 
 - ⚡ Fun fact **I love building model kits on World War II tanks.**
