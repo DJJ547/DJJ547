@@ -5,7 +5,7 @@
 <h3 align="center">I'm a passionate Software Engineer.</h3>
 ## 🙋‍♂️ About Me ##
 
-- 👀 I'm a graduated student at San Jose State University looking for full-time opportunities.
+- 👀 I'm a graduate student at San Jose State University looking for full-time opportunities.
 
 - 🔭 I’m currently working on **[Expense Tracker]**
 
